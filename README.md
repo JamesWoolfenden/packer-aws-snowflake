@@ -6,6 +6,8 @@ This template uses the Packer HCL2, using Packer 1.5.5 or later.
 
 ## Usage:
 
+Run Packer at the repo folder:
+
 ```bash
- packer build snowflake
+ packer build packer-aws-snowflake
 ```
