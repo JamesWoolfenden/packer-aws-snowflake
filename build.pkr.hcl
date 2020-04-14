@@ -5,7 +5,7 @@ sources=[
 
   provisioner "shell" {
      scripts=[
-       "snowflake/install-snowflake.sh"
+       "packer-aws-snowflake/install-snowflake.sh"
        ]
     }
 }
